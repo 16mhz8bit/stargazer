@@ -1,5 +1,5 @@
 # STARGAZER
-![image](https://github.com/user-attachments/assets/fbaa81f7-76bb-422f-92ce-3fdc86e60650)
+![image](https://github.com/user-attachments/assets/cbf11c87-971d-428f-a865-8c6ef6b60c05)
 
 ## What's this?  
 ** STARGAZER** is a self-developed telescope project born from the dream of building a space telescope. 
