@@ -5,3 +5,8 @@
 **STARGAZER** is a self-developed telescope project born from the dream of building a space telescope. 
 With limited resources, we turned to high-altitude ballooning as the most accessible way to approach space-like observation conditions. 
 Built with simplicity and robustness in mind, Stargazer aims to deliver meaningful scientific data while sharing every step openly to inspire and support the scientific and educational community.
+
+## Sponsor  
+Thanks to **SAPIO** for providing the gas for the mission!
+<img width="1404" height="683" alt="logo_sapio" src="https://github.com/user-attachments/assets/8fb49a7e-f5d7-4159-9e39-cbd364b85ff0" />
+
