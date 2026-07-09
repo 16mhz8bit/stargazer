@@ -8,5 +8,6 @@ Built with simplicity and robustness in mind, Stargazer aims to deliver meaningf
 
 ## Sponsor  
 Thanks to **SAPIO** for providing the gas for the mission!
-<img width="1404" height="683" alt="logo_sapio" src="https://github.com/user-attachments/assets/8fb49a7e-f5d7-4159-9e39-cbd364b85ff0" />
+
+<img width="702" height="342" alt="logo_sapio" src="https://github.com/user-attachments/assets/8fb49a7e-f5d7-4159-9e39-cbd364b85ff0" />
 
